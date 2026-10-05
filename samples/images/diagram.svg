@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140" viewBox="0 0 480 140" font-family="Segoe UI, sans-serif" font-size="14">
+  <rect x="10" y="40" width="120" height="60" rx="8" fill="#2f81f7"/>
+  <text x="70" y="75" text-anchor="middle" fill="#fff">.md file</text>
+  <path d="M135 70h70" stroke="#888" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="210" y="40" width="120" height="60" rx="8" fill="#8250df"/>
+  <text x="270" y="75" text-anchor="middle" fill="#fff">Markdig</text>
+  <path d="M335 70h70" stroke="#888" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="410" y="40" width="60" height="60" rx="8" fill="#1a7f37"/>
+  <text x="440" y="75" text-anchor="middle" fill="#fff">View</text>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#888"/></marker></defs>
+</svg>
